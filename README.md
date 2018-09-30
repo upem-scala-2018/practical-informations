@@ -3,15 +3,17 @@
 ## Outils
 ### Scala
 Le compilateur et un REPL Scala.
+
 [Télécharger Scala](https://www.scala-lang.org/download/)
 
 ### SBT
 C'est le moteur de production (compilation, tests, gestion des dépendances) qui sera utilisé dans le cadre des TDs.
+
 [Télécharger SBT](https://www.scala-sbt.org/download.html)
 
 ### Intellij
-Un IDE avec un bon support de Scala (coloration, autocomplétion, navigation, réfactorings...)
-La version gratuite est amplemant suffisante.
+Un IDE avec un bon support de Scala (coloration, autocomplétion, navigation, réfactorings...). La version gratuite est amplement suffisante.
+
 [Télécharger Intellij](https://www.jetbrains.com/idea/download/)
 
 
